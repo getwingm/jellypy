@@ -1,0 +1,15 @@
+include MANIFEST.in
+include README
+include jellypy
+include setup.py
+include jellypy/selenium/selenium.py
+include jellypy/selenium/selenium-server-standalone-2.0rc3.jar
+include jellypy/webdriver/chrome/*
+include jellypy/webdriver/common/*
+include jellypy/webdriver/firefox/*
+include jellypy/webdriver/ie/*
+include jellypy/webdriver/remote/*
+include jellypy/zombie/
+include jellypy/zombie/proxy/*
+include jellypy/zombie/tests/*
+include jellypy/zombie/tests/helpers/*
