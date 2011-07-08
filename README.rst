@@ -3,6 +3,5 @@
 What Is jellypy?
 ================
 
-.. image:: http://upload.wikimedia.org/math/1/3/2/1320f3da4bc6fc5145ffe081115518ce.png
-
+Jellypy is a python port of the Jellyfish framework, (http://jelly.io). Jellypy combines selenium, webdriver, phantomjs and zombie.js in to one sexy package, that [will] `just work`.
     
